@@ -28,5 +28,4 @@ This project aimed to extend the features of a Python chat server, created by In
 
 <h2>Credits</h2>
 
-- ReadMe Template Author: <a href="https://twitter.com/r4dixx" target="_blank">Amaël Sikel</a>
 - Chat Server Code: Professor Zheng Zhang
